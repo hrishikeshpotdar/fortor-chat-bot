@@ -170,7 +170,7 @@ class MessageList extends LitElement {
           <img src="./reply-icon.svg" height=10 class="reply-icon" @click=${() => this._quoteMessage(message)} alt="Reply">
           ${message.bot ? html`(bot)` : message.user}: <b> ${message.answer ? message.answer : message.question} </b><small class="time-stamp"> ${this.formatDate(message.timestamp)} </small>
           </div>
-          <img src="${message.bot ? './bot-avatar.png' : this.svgElementFromString(message.avatar)}" class="user-avatar" alt="User Avatar">
+          ${message.bot ? html`<img src="./bot-avatar.png" class="user-avatar" alt="User Avatar">` : ''}
         `)}
       </div>
     `;
