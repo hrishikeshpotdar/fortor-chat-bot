@@ -52,7 +52,7 @@ class MessageList extends LitElement {
   margin-bottom: 4px;
   word-wrap: break-word;
   align-self: flex-end; /* Aligns your messages to the right */
-  background-color: rgb(65 72 87); /* Blue for sent messages */
+  background-color: rgb(68 105 183); /* Blue for sent messages */
 }
 
 /* Style for received messages if needed */
