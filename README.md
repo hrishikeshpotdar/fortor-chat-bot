@@ -1,12 +1,12 @@
 # Forter Chat Bot
 
-Hi there! :)
+Chatroom features - 
+multiple user connections
+sidebar that shows list of active users
 
-
-Your challenge is to build a very simple chat bot web app.
-
-In this repository, you will find working server and client skeletons.
-
-The full challenge description can be found [here](https://docs.google.com/document/d/1g9d3-i1bCUSCMYMcodb_YKX6J8K2QmeVT4S4qUyeZH8/edit?usp=sharing)
-
-Good Luck!
+Bot features - 
+general greetings
+find answers if questions have been answered before 
+detect questions from the messages
+detect profanities and send response accordingly 
+micro conversations with the user
