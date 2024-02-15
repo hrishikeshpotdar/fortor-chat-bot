@@ -1,1 +1,1 @@
-export * from './components/demo-element.js';
+export * from './components/ChatApp.js';

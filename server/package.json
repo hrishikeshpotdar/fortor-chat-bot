@@ -16,7 +16,13 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
+    "@elastic/elasticsearch": "7.10",
+    "crypto": "^1.0.1",
     "express": "^4.17.1",
-    "socket.io": "^4.5.2"
+    "jdenticon": "^3.2.0",
+    "natural": "^6.10.4",
+    "profanities": "^3.0.1",
+    "socket.io": "^4.5.2",
+    "washyourmouthoutwithsoap": "^1.0.2"
   }
 }
