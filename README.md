@@ -12,4 +12,4 @@ detect profanities and send response accordingly <br>
 micro conversations with the user <br>
 <br>
 <br>
-please download 221f7bd2-8f09-4f18-8512-0c2412742044.mp4 file to see chatbot in action
+please download <b>221f7bd2-8f09-4f18-8512-0c2412742044.mp4</b> file to see chatbot in action
